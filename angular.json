@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cards"
+    }
+  },
+  "defaultProject": "cards",
+  "cli": {
+    "analytics": "a1beedaf-f7fa-41a9-9d7e-c3caa97b5b23"
+  }
 }
